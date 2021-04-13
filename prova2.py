@@ -49,5 +49,3 @@ def atividade4(lista_media_do_aluno):
 #exemplo de uma lista de média do aluno
 lista_media_do_aluno=[8,2,4,6]
 atividade4(lista_media_do_aluno)
-
-#atividade prática 4
